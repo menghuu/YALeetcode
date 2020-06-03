@@ -1,4 +1,4 @@
-题目来自于[gaoshengnan/LeetCode](https://github.com/gaoshengnan/LeetCode)
+题目来自于[gaoshengnan/LeetCode](https://github.com/gaoshengnan/LeetCode)， 事实上，很多题目我都已经做过了，再重新复习一遍吧
 
 ## 面试常考算法题
 
