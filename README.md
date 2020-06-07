@@ -66,7 +66,7 @@
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
 |  17  | 中等  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [17. Letter Combinations of a Phone Number](https://github.com/menghuu/YALeetcode/blob/master/python3/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py) |    ✅    |
-|  50  | 中等  | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/) |  [pow x - n](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_50/PowXN.java)        |    ❎    |
+|  50  | 中等  | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/) | [pow x - n](https://github.com/menghuu/YALeetcode/blob/master/python3/50.%20Pow(x%2C%20n).py) |    ✅    |
 |  78  | 中等  | [子集](https://leetcode-cn.com/problems/subsets/solution/hui-su-jie-fa-by-jawhiow/) |  [subsets](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_78/Subsets.java)        |    ❎    |
 | 169  | 简单  | [求众数](https://leetcode-cn.com/problems/majority-element/description/) |          |    ❎     |
 
@@ -116,8 +116,8 @@
 | 123  | 困难 | [买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) |          |    ❎     |
 | 152  | 中等 | [乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/description/) |          |    ❎     |
 | 188  | 困难 | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) |          |    ❎     |
-| 198  | 简单 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   |    [house robber](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_198/HouseRobber.java)      |    ❎    |
-| 213  | 中等 | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/description/) |     [house robber ii](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_213/HouseRobberII.java)     |    ❎    |
+| 198  | 简单 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   | [house robber](https://github.com/menghuu/YALeetcode/blob/master/python3/198.%20House%20Robber.py) |    ✅    |
+| 213  | 中等 | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/description/) |     [house robber ii](https://github.com/menghuu/YALeetcode/blob/master/python3/213.%20House%20Robber%20II.py)     |    ✅    |
 | 221  | 中等 | [最大正方形](https://leetcode-cn.com/problems/maximal-square/) |          |    ❎     |
 | 279  | 中等 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) |          |    ❎     |
 | 322  | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/description/) |          |    ❎     |
