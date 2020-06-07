@@ -34,13 +34,13 @@
 |  1   | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum/)        | [two sum](https://github.com/menghuu/YALeetcode/blob/master/python3/1.%20Two%20Sum.py) |    ✅    |
 |  15  | 中等 | [三数之和](https://leetcode-cn.com/problems/3sum/)           | [three sum](https://github.com/menghuu/YALeetcode/blob/master/python3/15.%203Sum.py) |    ✅    |
 |  20  | 简单 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/) | [valid parenthese](https://github.com/menghuu/YALeetcode/blob/master/python3/20.%20Valid%20Parentheses.py) |    ✅    |
-|  42  | 困难 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [trapping rain water](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_42/TrappingRainWater.java)                                                             |    ✅    |
+|  42  | 困难 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [trapping rain water](https://github.com/menghuu/YALeetcode/blob/master/python3/42.%20Trapping%20Rain%20Water.py) |    ✅    |
 |  49  | 中等 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [group anagrams](https://github.com/menghuu/YALeetcode/blob/master/python3/42.%20Trapping%20Rain%20Water.py) |    ❎    |
-|  84  | 困难 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)&ensp;&ensp;|                                                              |    ❎    |
+|  84  | 困难 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)&ensp;&ensp;| [84. Largest Rectangle in Histogram](https://github.com/menghuu/YALeetcode/blob/master/python3/84.%20Largest%20Rectangle%20in%20Histogram.py) |    ✅    |
 | 155  | 简单 | [最小栈](https://leetcode-cn.com/problems/min-stack/)        | [min stack](https://github.com/menghuu/YALeetcode/blob/master/python3/155.%20Min%20Stack.py) |    ✅    |
 | 239  | 困难 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) |     [sliding window maximum](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_239/SlidingWindowMaximum.java)                                                         |    ❎    |
 | 242  | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/) | [valid anagram](https://github.com/menghuu/YALeetcode/blob/master/python3/242.%20Valid%20Anagram.py) |    ✅    |
-| 641  | 中等 | [设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/) |                                                              |    ❎     |
+| 641  | 中等 | [设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/) | [641. Design Circular Deque](https://github.com/menghuu/YALeetcode/blob/master/python3/641.%20%E8%AE%BE%E8%AE%A1%E5%BE%AA%E7%8E%AF%E5%8F%8C%E7%AB%AF%E9%98%9F%E5%88%97.py) |    ✅    |
 
 > 实战题目 - Binary Tree
 
