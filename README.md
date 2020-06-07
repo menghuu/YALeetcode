@@ -34,10 +34,10 @@
 |  1   | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum/)        | [two sum](https://github.com/menghuu/YALeetcode/blob/master/python3/1.%20Two%20Sum.py) |    ✅    |
 |  15  | 中等 | [三数之和](https://leetcode-cn.com/problems/3sum/)           | [three sum](https://github.com/menghuu/YALeetcode/blob/master/python3/15.%203Sum.py) |    ✅    |
 |  20  | 简单 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/) | [valid parenthese](https://github.com/menghuu/YALeetcode/blob/master/python3/20.%20Valid%20Parentheses.py) |    ✅    |
-|  42  | 困难 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [trapping rain water](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_42/TrappingRainWater.java)                                                             |    ❎    |
-|  49  | 中等 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) |      [group anagrams](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_49/GroupAnagrams.java)                                                        |    ❎    |
+|  42  | 困难 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [trapping rain water](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_42/TrappingRainWater.java)                                                             |    ✅    |
+|  49  | 中等 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [group anagrams](https://github.com/menghuu/YALeetcode/blob/master/python3/42.%20Trapping%20Rain%20Water.py) |    ❎    |
 |  84  | 困难 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)&ensp;&ensp;|                                                              |    ❎    |
-| 155  | 简单 | [最小栈](https://leetcode-cn.com/problems/min-stack/)        |      [min stack](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_155/MinStack.java)                                                        |    ❎    |
+| 155  | 简单 | [最小栈](https://leetcode-cn.com/problems/min-stack/)        | [min stack](https://github.com/menghuu/YALeetcode/blob/master/python3/155.%20Min%20Stack.py) |    ✅    |
 | 239  | 困难 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) |     [sliding window maximum](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_239/SlidingWindowMaximum.java)                                                         |    ❎    |
 | 242  | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/) | [valid anagram](https://github.com/menghuu/YALeetcode/blob/master/python3/242.%20Valid%20Anagram.py) |    ✅    |
 | 641  | 中等 | [设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/) |                                                              |    ❎     |
@@ -67,8 +67,8 @@
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
 |  17  | 中等  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [17. Letter Combinations of a Phone Number](https://github.com/menghuu/YALeetcode/blob/master/python3/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py) |    ✅    |
 |  50  | 中等  | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/) | [pow x - n](https://github.com/menghuu/YALeetcode/blob/master/python3/50.%20Pow(x%2C%20n).py) |    ✅    |
-|  78  | 中等  | [子集](https://leetcode-cn.com/problems/subsets/solution/hui-su-jie-fa-by-jawhiow/) |  [subsets](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_78/Subsets.java)        |    ❎    |
-| 169  | 简单  | [求众数](https://leetcode-cn.com/problems/majority-element/description/) |          |    ❎     |
+|  78  | 中等  | [子集](https://leetcode-cn.com/problems/subsets/) | [subsets](https://github.com/menghuu/YALeetcode/blob/master/python3/78.%20Subsets.py) |    ✅    |
+| 169  | 简单  | [求众数](https://leetcode-cn.com/problems/majority-element/description/) | [169. Majority Element](https://github.com/menghuu/YALeetcode/blob/master/python3/169.%20Majority%20Element.py) |    ✅    |
 
 > 实战题目 - 二分查找
 
