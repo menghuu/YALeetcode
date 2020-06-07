@@ -52,14 +52,14 @@
 | 104  | 简单 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) |    [maximum depth of binary tree](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_104/MaximumDepthOfBinaryTree.java)     |    ❎    |
 | 105  | 中等 | [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |  [construct binary tree](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_105/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)        |    ❎    |
 | 111  | 简单 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) |    [minimum depth of binary tree](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_111/MinimumDepthOfBinaryTree.java)      |    ❎    |
-| 144  | 中等 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/ ) | [binary tree preorder traversal](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_144/BinaryTreePreorderTraversal.java)         |    ❎    |
+| 144  | 中等 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/ ) | [binary tree preorder traversal](https://github.com/menghuu/YALeetcode/blob/master/python3/144.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.py) |    ✅    |
 | 226  | 简单 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) |   [invert binary tree](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_226/InvertBinaryTree.java)       |    ❎    |
 | 230  | 中等 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/comments/) |          |    ❎     |
 | 236  | 中等 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [lowest common ancestor](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_236/LowestCommonAncestorOfABinaryTree.java)         |    ❎    |
 | 297  | 困难 | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |          |    ❎     |
 | 429  | 简单 | [N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/description/) | [n ary tree level order traversal](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_429/NAryTreeLevelOrderTraversal.java)         |    ❎    |
-| 589  | 简单 | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description) |          |    ❎     |
-| 590  | 简单 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/ ) |          |    ❎     |
+| 589  | 简单 | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description) | [N叉树的前序遍历](https://github.com/menghuu/YALeetcode/blob/master/python3/589.%20N%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.py) |    ✅    |
+| 590  | 简单 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/ ) | [N叉树的后序遍历](https://github.com/menghuu/YALeetcode/blob/master/python3/590.%20N%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.py ) |    ✅    |
 
 > 实战题目 - 分治
 
