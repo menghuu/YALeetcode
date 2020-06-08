@@ -13,10 +13,13 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         d = {}
         for s in strs:
-            sorted_s = ''.join(sorted(s))
-            if sorted_s in d:
-                d[sorted_s].append(s)
+            counts = [0] * 26
+            for c in s:
+                counts[ord(c) - ord('a')] += 1
+            counts = tuple(counts)
+            if counts in d:
+                d[counts].append(s)
             else:
-                d[sorted_s] = [s]
+                d[counts] = [s]
         ans = list(d.values())
         return ans
