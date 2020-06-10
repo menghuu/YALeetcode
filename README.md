@@ -104,9 +104,9 @@
 |  32  | 中等 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) |          |    ❎     |
 |  45  | 困难 | [跳跃游戏 II ](https://leetcode-cn.com/problems/jump-game-ii/) |          |    ❎     |
 |  55  | 困难 | [跳跃游戏 ](https://leetcode-cn.com/problems/jump-game/)     |          |    ❎     |
-|  62  | 中等 | [不同路径  ](https://leetcode-cn.com/problems/unique-paths/) |     [unique paths](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_62/UniquePaths.java)     |    ❎    |
-|  63  | 中等 | [不同路径 II ](https://leetcode-cn.com/problems/unique-paths-ii/) |    [unique paths II](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_63/UniquePathsII.java)      |    ❎    |
-|  64  | 中等 | [最小路径和  ](https://leetcode-cn.com/problems/minimum-path-sum/) |          |    ❎     |
+|  62  | 中等 | [不同路径  ](https://leetcode-cn.com/problems/unique-paths/) |     [unique paths](https://github.com/menghuu/YALeetcode/blob/master/python3/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.py)     |    ✅    |
+|  63  | 中等 | [不同路径 II ](https://leetcode-cn.com/problems/unique-paths-ii/) | [unique paths II](https://github.com/menghuu/YALeetcode/blob/master/python3/63.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II.py) |    ✅    |
+|  64  | 中等 | [最小路径和  ](https://leetcode-cn.com/problems/minimum-path-sum/) | [最小路径和  ](https://github.com/menghuu/YALeetcode/blob/master/python3/64.%20%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.py) |    ✅    |
 |  72  | 困难 | [编辑距离 ](https://leetcode-cn.com/problems/edit-distance/) |          |    ❎     |
 |  76  | 困难 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |          |    ❎     |
 |  91  | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways)     |          |    ❎     |
