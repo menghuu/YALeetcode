@@ -1,5 +1,7 @@
 题目来自于[gaoshengnan/LeetCode](https://github.com/gaoshengnan/LeetCode)， 事实上，很多题目我都已经做过了，再重新复习一遍吧
 
+高频面试题来自于：https://blog.csdn.net/gongsai20141004277/article/details/105307217
+
 ## 面试常考算法题
 
 以下列出面试高频出现，以及一些非常经典重要的算法题： 总计：100 &emsp; 已完成：??&emsp; 未完成：??
@@ -16,6 +18,18 @@
 | 189  | 简单 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/)   | [rotate array](https://github.com/menghuu/YALeetcode/blob/master/python3/189.%20Rotate%20Array.py) |    ✅     |
 | 283  | 简单 | [移动零](https://leetcode-cn.com/problems/move-zeroes/)      | [move zeroes](https://github.com/menghuu/YALeetcode/blob/master/python3/283.%20Move%20Zeroes.py) |    ✅     |
 
+> 数组、高频面试题
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 4    | 困难 | [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) |          |          |
+| 31   | 中等 | [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) |          |          |
+| 34   | 中等 | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |          |          |
+| 54   | 中等 | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) |          |          |
+| 56   | 中等 | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) |          |          |
+| 238  | 中等 | [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) |          |          |
+| 1049 | 中等 | [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) |          |          |
+
 > 实战题目 - Linked List
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 是否完成 |
@@ -26,6 +40,14 @@
 | 141  | 简单 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [linkedList cycle](https://github.com/menghuu/YALeetcode/blob/master/python3/141.%20Linked%20List%20Cycle.py) |    ✅    |
 | 142  | 中等 | [环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [linked list cycle II](https://github.com/menghuu/YALeetcode/blob/master/python3/142.%20Linked%20List%20Cycle%20II.py) |    ✅    |
 | 206  | 简单 | [反转链表](https://leetcode.com/problems/reverse-linked-list/) | [reverse list](https://github.com/menghuu/YALeetcode/blob/master/python3/206.%20Reverse%20Linked%20List.py) |    ✅    |
+
+> 链表、高频题目
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 2    | 中等 | [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) |          |          |
+| 3    | 中等 | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) |          |          |
+| 19   | 中等 | [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) |          |          |
 
 > 其他实战题目
 
@@ -61,6 +83,15 @@
 | 589  | 简单 | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description) | [N叉树的前序遍历](https://github.com/menghuu/YALeetcode/blob/master/python3/589.%20N%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.py) |    ✅    |
 | 590  | 简单 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/ ) | [N叉树的后序遍历](https://github.com/menghuu/YALeetcode/blob/master/python3/590.%20N%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.py ) |    ✅    |
 
+> 树、高频题目
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 124  | 困难 | [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) |          |          |
+| 199  | 中等 | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) |          |          |
+| 543  | 简单 | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |          |          |
+| 572  | 简单 | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |          |          |
+
 > 实战题目 - 分治
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 是否完成 |
@@ -69,6 +100,15 @@
 |  50  | 中等  | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/) | [pow x - n](https://github.com/menghuu/YALeetcode/blob/master/python3/50.%20Pow(x%2C%20n).py) |    ✅    |
 |  78  | 中等  | [子集](https://leetcode-cn.com/problems/subsets/) | [subsets](https://github.com/menghuu/YALeetcode/blob/master/python3/78.%20Subsets.py) |    ✅    |
 | 169  | 简单  | [求众数](https://leetcode-cn.com/problems/majority-element/description/) | [169. Majority Element](https://github.com/menghuu/YALeetcode/blob/master/python3/169.%20Majority%20Element.py) |    ✅    |
+
+> 分治算法、高频题目
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 23   | 困难 | [23. 合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |          |          |
+| 215  | 中等 | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) |          |          |
+| 240  | 中等 | [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) |          |          |
+| 973  | 中等 | [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) |          |          |
 
 > 实战题目 - 二分查找
 
@@ -101,7 +141,7 @@
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
-|  32  | 中等 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) |          |    ❎     |
+|  32  | 中等 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [最长有效括号](https://github.com/menghuu/YALeetcode/blob/master/python3/32.%20%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.py) |    ✅    |
 |  45  | 困难 | [跳跃游戏 II ](https://leetcode-cn.com/problems/jump-game-ii/) |          |    ❎     |
 |  55  | 困难 | [跳跃游戏 ](https://leetcode-cn.com/problems/jump-game/)     |          |    ❎     |
 |  62  | 中等 | [不同路径  ](https://leetcode-cn.com/problems/unique-paths/) |     [unique paths](https://github.com/menghuu/YALeetcode/blob/master/python3/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.py)     |    ✅    |
@@ -132,6 +172,13 @@
 | 647  | 中等 | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) |          |    ❎     |
 | 714  | 中等 | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |          |    ❎     |
 | 980  | 困难 | [不同路径 III ](https://leetcode-cn.com/problems/unique-paths-iii/) |          |    ❎     |
+
+> 动态规划、高频题目
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 5    | 中等 | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) |          |          |
+| 139  | 中等 | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) |          |          |
 
 
 > 实战题目 - 剪枝
@@ -174,3 +221,68 @@
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
 | 146  | 困难  | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/#/) |          |    ❎     |
+
+> 字符、高频
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 273  | 困难 | [273. 整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/) |          |          |
+| 415  | 简单 | [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/) |          |          |
+| 680  | 简单 | [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) |          |          |
+| 819  | 简单 | [819. 最常见的单词](https://leetcode-cn.com/problems/most-common-word/) |          |          |
+| 937  | 简单 | [937. 重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/) |          |          |
+
+> 堆与栈、高频题目
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 692  | 中等 | [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |          |          |
+| 1249 | 中等 | [1249. 移除无效的括号](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/) |          |          |
+
+> 哈希表、高频题目
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 560  | 中等 | [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) |          |          |
+| 953  | 简单 | [953. 验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/) |          |          |
+
+> 回溯算法、高频题目
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 46   | 中等 | [46. 全排列](https://leetcode-cn.com/problems/permutations/) |          |          |
+| 79   | 中等 | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) |          |          |
+
+> 图论、高频题目
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 301  | 困难 | [301. 删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/) |          |          |
+| 994  | 中等 | [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) |          |          |
+| 1192 | 困难 | [1192. 查找集群内的「关键连接」](https://leetcode-cn.com/problems/critical-connections-in-a-network/) |          |          |
+
+> 数学、高频题目
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 7    | 简单 | [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) |          |          |
+| 8    | 中等 | [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) |          |          |
+| 67   | 简单 | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) |          |          |
+| 202  | 简单 | [202. 快乐数](https://leetcode-cn.com/problems/happy-number/) |          |          |
+
+> 设计、高频题目
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 295  | 困难 | [295. 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) |          |          |
+| 380  | 中等 | [380. 常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) |          |          |
+
+> 经典题目、高频题目
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 53   | 简单 | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) |          |          |
+| 125  | 简单 | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) |          |          |
+| 102  | 中等 | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |          |          |
+| 138  | 中等 | [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) |          |          |
+
