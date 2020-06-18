@@ -131,8 +131,8 @@
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
 | 102  | 中等 | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/#/description) | [binary tree level order traversal](https://github.com/menghuu/YALeetcode/blob/master/python3/102.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.py) |    ✅    |
-| 126  | 困难  | [单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/description/) |          |    ✅    |
-| 127  | 中等  | [单词接龙](https://leetcode-cn.com/problems/word-ladder/description/) | [单词接龙](https://github.com/menghuu/YALeetcode/blob/master/python3/127.%20%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99.py) |    ❎     |
+| 126  | 困难  | [单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/description/) | [单词接龙 II](https://github.com/menghuu/YALeetcode/blob/master/python3/126.%20%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99%20II.py) |    ✅    |
+| 127  | 中等  | [单词接龙](https://leetcode-cn.com/problems/word-ladder/description/) | [单词接龙](https://github.com/menghuu/YALeetcode/blob/master/python3/127.%20%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99.py) |    ✅    |
 | 433  | 中等  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/#/description) |          |    ❎     |
 | 515  | 中等  | [在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/#/description) |          |    ❎     |
 | 529  | 中等  | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/description/) |          |    ❎     |
