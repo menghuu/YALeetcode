@@ -286,3 +286,13 @@
 | 102  | 中等 | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |          |          |
 | 138  | 中等 | [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) |          |          |
 
+
+
+
+> 其他： 主要来自每天的每日一题
+
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
+| 1028 | 困难 | [1028. 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) |          | ✅        |
+
