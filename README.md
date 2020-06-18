@@ -130,9 +130,9 @@
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
-| 102  | 中等 | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/#/description) |  [binary tree level order traversal](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_102/BinaryTreeLevelOrderTraversal.java)        |    ❎    |
-| 126  | 困难  | [单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/description/) |          |    ❎     |
-| 127  | 中等  | [单词接龙](https://leetcode-cn.com/problems/word-ladder/description/) |          |    ❎     |
+| 102  | 中等 | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/#/description) | [binary tree level order traversal](https://github.com/menghuu/YALeetcode/blob/master/python3/102.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.py) |    ✅    |
+| 126  | 困难  | [单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/description/) |          |    ✅    |
+| 127  | 中等  | [单词接龙](https://leetcode-cn.com/problems/word-ladder/description/) | [单词接龙](https://github.com/menghuu/YALeetcode/blob/master/python3/127.%20%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99.py) |    ❎     |
 | 433  | 中等  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/#/description) |          |    ❎     |
 | 515  | 中等  | [在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/#/description) |          |    ❎     |
 | 529  | 中等  | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/description/) |          |    ❎     |
@@ -255,11 +255,11 @@
 
 > 图论、高频题目
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
-| 301  | 困难 | [301. 删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/) |          |          |
-| 994  | 中等 | [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) |          |          |
-| 1192 | 困难 | [1192. 查找集群内的「关键连接」](https://leetcode-cn.com/problems/critical-connections-in-a-network/) |          |          |
+| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 301  | 困难 | [301. 删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/) |                                                              |          |
+| 994  | 中等 | [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) | [994. 腐烂的橘子](https://github.com/menghuu/YALeetcode/blob/master/python3/994.%20%E8%85%90%E7%83%82%E7%9A%84%E6%A9%98%E5%AD%90.py) | ✅        |
+| 1192 | 困难 | [1192. 查找集群内的「关键连接」](https://leetcode-cn.com/problems/critical-connections-in-a-network/) |                                                              |          |
 
 > 数学、高频题目
 
@@ -292,7 +292,7 @@
 > 其他： 主要来自每天的每日一题
 
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
-| 1028 | 困难 | [1028. 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) |          | ✅        |
+| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 1028 | 困难 | [1028. 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) | [1028. 从先序遍历还原二叉树](https://github.com/menghuu/YALeetcode/blob/master/python3/1028.%20%E4%BB%8E%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86%E8%BF%98%E5%8E%9F%E4%BA%8C%E5%8F%89%E6%A0%91.py) | ✅        |
 
