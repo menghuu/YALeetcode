@@ -43,11 +43,11 @@
 
 > 链表、高频题目
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
-| 2    | 中等 | [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) |          |          |
-| 3    | 中等 | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) |          |          |
-| 19   | 中等 | [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) |          |          |
+| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 2    | 中等 | [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [2. 两数相加](https://github.com/menghuu/YALeetcode/blob/master/python3/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.py) | ✅        |
+| 3    | 中等 | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [3. 无重复字符的最长子串](https://github.com/menghuu/YALeetcode/blob/master/python3/3.%20%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.py) | ✅        |
+| 19   | 中等 | [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [19. 删除链表的倒数第N个节点](https://github.com/menghuu/YALeetcode/blob/master/python3/19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.py) | ✅        |
 
 > 其他实战题目
 
@@ -85,12 +85,12 @@
 
 > 树、高频题目
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
-| 124  | 困难 | [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) |          |          |
-| 199  | 中等 | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) |          |          |
-| 543  | 简单 | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |          |          |
-| 572  | 简单 | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |          |          |
+| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 124  | 困难 | [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [124. 二叉树中的最大路径和](https://github.com/menghuu/YALeetcode/blob/master/python3/124.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C.py) | ✅        |
+| 199  | 中等 | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [199. 二叉树的右视图](https://github.com/menghuu/YALeetcode/blob/master/python3/199.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE.py) | ✅        |
+| 543  | 简单 | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |                                                              |          |
+| 572  | 简单 | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |                                                              |          |
 
 > 实战题目 - 分治
 
