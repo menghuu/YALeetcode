@@ -295,4 +295,5 @@
 | 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
 | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 1028 | 困难 | [1028. 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) | [1028. 从先序遍历还原二叉树](https://github.com/menghuu/YALeetcode/blob/master/python3/1028.%20%E4%BB%8E%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86%E8%BF%98%E5%8E%9F%E4%BA%8C%E5%8F%89%E6%A0%91.py) | ✅        |
+| 10   | 困难 | [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [10. 正则表达式匹配](https://github.com/menghuu/YALeetcode/blob/master/python3/10.%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.py) | ✅        |
 
