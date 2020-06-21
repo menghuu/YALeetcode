@@ -89,8 +89,8 @@
 | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 124  | 困难 | [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [124. 二叉树中的最大路径和](https://github.com/menghuu/YALeetcode/blob/master/python3/124.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C.py) | ✅        |
 | 199  | 中等 | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [199. 二叉树的右视图](https://github.com/menghuu/YALeetcode/blob/master/python3/199.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE.py) | ✅        |
-| 543  | 简单 | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |                                                              |          |
-| 572  | 简单 | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |                                                              |          |
+| 543  | 简单 | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [543. 二叉树的直径](https://github.com/menghuu/YALeetcode/blob/master/python3/543.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.py) | ✅        |
+| 572  | 简单 | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [另一个树的子树](https://github.com/menghuu/YALeetcode/blob/master/python3/572.%20%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%A0%91%E7%9A%84%E5%AD%90%E6%A0%91.py) | ✅        |
 
 > 实战题目 - 分治
 
@@ -193,7 +193,7 @@
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
-| 455  | 简单 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/) |          |    ❎     |
+| 455  | 简单 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/) | [分发饼干](https://github.com/menghuu/YALeetcode/blob/master/python3/455.%20%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.py) |    ✅    |
 | 860  | 简单 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/) |          |    ❎     |
 | 874  | 简单 | [模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/description/) |          |    ❎     |
 
@@ -220,7 +220,7 @@
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
-| 146  | 困难  | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/#/) |          |    ❎     |
+| 146  | 困难  | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/#/) | [LRU缓存机制](https://github.com/menghuu/YALeetcode/blob/master/python3/146.%20LRU%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.py) |    ✅    |
 
 > 字符、高频
 
@@ -279,12 +279,12 @@
 
 > 经典题目、高频题目
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
-| 53   | 简单 | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) |          |          |
-| 125  | 简单 | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) |          |          |
-| 102  | 中等 | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |          |          |
-| 138  | 中等 | [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) |          |          |
+| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 53   | 简单 | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [最大子序和](https://github.com/menghuu/YALeetcode/blob/master/python3/53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.py) | ✅        |
+| 125  | 简单 | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [验证回文串](https://github.com/menghuu/YALeetcode/blob/master/python3/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.py) | ✅        |
+| 102  | 中等 | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [二叉树的层序遍历](https://github.com/menghuu/YALeetcode/blob/master/python3/102.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.py) | ✅        |
+| 138  | 中等 | [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [复制带随机指针的链表](https://github.com/menghuu/YALeetcode/blob/master/python3/138.%20%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.py) | ✅        |
 
 
 
