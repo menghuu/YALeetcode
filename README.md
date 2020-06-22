@@ -142,14 +142,14 @@
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
 |  32  | 中等 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [最长有效括号](https://github.com/menghuu/YALeetcode/blob/master/python3/32.%20%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.py) |    ✅    |
-|  45  | 困难 | [跳跃游戏 II ](https://leetcode-cn.com/problems/jump-game-ii/) |          |    ❎     |
-|  55  | 困难 | [跳跃游戏 ](https://leetcode-cn.com/problems/jump-game/)     |          |    ❎     |
+|  45  | 困难 | [跳跃游戏 II ](https://leetcode-cn.com/problems/jump-game-ii/) | [跳跃游戏 II ](https://github.com/menghuu/YALeetcode/blob/master/python3/45.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.py) |    ✅    |
+|  55  | 困难 | [跳跃游戏 ](https://leetcode-cn.com/problems/jump-game/)     | [55. 跳跃游戏](https://github.com/menghuu/YALeetcode/blob/master/python3/55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.py) |    ✅    |
 |  62  | 中等 | [不同路径  ](https://leetcode-cn.com/problems/unique-paths/) |     [unique paths](https://github.com/menghuu/YALeetcode/blob/master/python3/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.py)     |    ✅    |
 |  63  | 中等 | [不同路径 II ](https://leetcode-cn.com/problems/unique-paths-ii/) | [unique paths II](https://github.com/menghuu/YALeetcode/blob/master/python3/63.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II.py) |    ✅    |
 |  64  | 中等 | [最小路径和  ](https://leetcode-cn.com/problems/minimum-path-sum/) | [最小路径和  ](https://github.com/menghuu/YALeetcode/blob/master/python3/64.%20%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.py) |    ✅    |
 |  72  | 困难 | [编辑距离 ](https://leetcode-cn.com/problems/edit-distance/) |          |    ❎     |
 |  76  | 困难 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |          |    ❎     |
-|  91  | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways)     |          |    ❎     |
+|  91  | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways)     | [解码方法](https://github.com/menghuu/YALeetcode/blob/master/python3/91.%20%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95.py) |    ✅    |
 | 120  | 中等 | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/) |          |    ❎     |
 | 121  | 简单 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/#/description) |  [best time to buy and shell stock](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_121/BestTimeToBuyAndSellStock.java)        |    ❎    |
 | 122  | 简单 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) |   [best time to buy and shell stock ii](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_122/BestTimeToBuyAndSellStockII.java)       |     ❎     |
@@ -292,9 +292,10 @@
 > 其他： 主要来自每天的每日一题
 
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| 1028 | 困难 | [1028. 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) | [1028. 从先序遍历还原二叉树](https://github.com/menghuu/YALeetcode/blob/master/python3/1028.%20%E4%BB%8E%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86%E8%BF%98%E5%8E%9F%E4%BA%8C%E5%8F%89%E6%A0%91.py) | ✅        |
-| 10   | 困难 | [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [10. 正则表达式匹配](https://github.com/menghuu/YALeetcode/blob/master/python3/10.%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.py) | ✅        |
-| 44   | 困难 | [44. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | [44. 通配符匹配](https://github.com/menghuu/YALeetcode/blob/master/python3/44.%20%E9%80%9A%E9%85%8D%E7%AC%A6%E5%8C%B9%E9%85%8D.py) | ✅        |
+| 题号      | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| --------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 1028      | 困难 | [1028. 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) | [1028. 从先序遍历还原二叉树](https://github.com/menghuu/YALeetcode/blob/master/python3/1028.%20%E4%BB%8E%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86%E8%BF%98%E5%8E%9F%E4%BA%8C%E5%8F%89%E6%A0%91.py) | ✅        |
+| 10        | 困难 | [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [10. 正则表达式匹配](https://github.com/menghuu/YALeetcode/blob/master/python3/10.%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.py) | ✅        |
+| 44        | 困难 | [44. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | [44. 通配符匹配](https://github.com/menghuu/YALeetcode/blob/master/python3/44.%20%E9%80%9A%E9%85%8D%E7%AC%A6%E5%8C%B9%E9%85%8D.py) | ✅        |
+| 面试16.18 | 中等 | [面试题 16.18. 模式匹配](https://leetcode-cn.com/problems/pattern-matching-lcci/) | [面试题 16.18. 模式匹配](https://github.com/menghuu/YALeetcode/blob/master/python3/%E9%9D%A2%E8%AF%95%E9%A2%98%2016.18.%20%E6%A8%A1%E5%BC%8F%E5%8C%B9%E9%85%8D.py) | ✅        |
 
