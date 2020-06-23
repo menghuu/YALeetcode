@@ -20,15 +20,15 @@
 
 > 数组、高频面试题
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
-| 4    | 困难 | [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) |          |          |
-| 31   | 中等 | [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) |          |          |
-| 34   | 中等 | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |          |          |
-| 54   | 中等 | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) |          |          |
-| 56   | 中等 | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) |          |          |
-| 238  | 中等 | [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) |          |          |
-| 1049 | 中等 | [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) |          |          |
+| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 4    | 困难 | [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) |                                                              |          |
+| 31   | 中等 | [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [31. 下一个排列](https://github.com/menghuu/YALeetcode/blob/master/python3/31.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.py) | ✅        |
+| 34   | 中等 | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/menghuu/YALeetcode/blob/master/python3/34.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.py) | ✅        |
+| 54   | 中等 | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [54. 螺旋矩阵](https://github.com/menghuu/YALeetcode/blob/master/python3/54.%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.py) | ✅        |
+| 56   | 中等 | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [56. 合并区间](https://github.com/menghuu/YALeetcode/blob/master/python3/56.%20%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.py) | ✅        |
+| 238  | 中等 | [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [238. 除自身以外数组的乘积](https://github.com/menghuu/YALeetcode/blob/master/python3/238.%20%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.py) | ✅        |
+| 1049 | 中等 | [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) |                                                              |          |
 
 > 实战题目 - Linked List
 
@@ -298,4 +298,5 @@
 | 10        | 困难 | [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [10. 正则表达式匹配](https://github.com/menghuu/YALeetcode/blob/master/python3/10.%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.py) | ✅        |
 | 44        | 困难 | [44. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | [44. 通配符匹配](https://github.com/menghuu/YALeetcode/blob/master/python3/44.%20%E9%80%9A%E9%85%8D%E7%AC%A6%E5%8C%B9%E9%85%8D.py) | ✅        |
 | 面试16.18 | 中等 | [面试题 16.18. 模式匹配](https://leetcode-cn.com/problems/pattern-matching-lcci/) | [面试题 16.18. 模式匹配](https://github.com/menghuu/YALeetcode/blob/master/python3/%E9%9D%A2%E8%AF%95%E9%A2%98%2016.18.%20%E6%A8%A1%E5%BC%8F%E5%8C%B9%E9%85%8D.py) | ✅        |
+| 67        | 简单 | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | [67. 二进制求和](https://github.com/menghuu/YALeetcode/blob/master/python3/67.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C.py) | ✅        |
 
