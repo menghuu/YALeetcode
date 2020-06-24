@@ -224,13 +224,13 @@
 
 > 字符、高频
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
-| 273  | 困难 | [273. 整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/) |          |          |
-| 415  | 简单 | [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/) |          |          |
-| 680  | 简单 | [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) |          |          |
-| 819  | 简单 | [819. 最常见的单词](https://leetcode-cn.com/problems/most-common-word/) |          |          |
-| 937  | 简单 | [937. 重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/) |          |          |
+| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 273  | 困难 | [273. 整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/) |                                                              |          |
+| 415  | 简单 | [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/) | [字符串相加](https://github.com/menghuu/YALeetcode/blob/master/python3/415.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0.py) | ✅        |
+| 680  | 简单 | [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [验证回文字符串 Ⅱ](https://github.com/menghuu/YALeetcode/blob/master/python3/680.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%20%E2%85%A1.py) | ✅        |
+| 819  | 简单 | [819. 最常见的单词](https://leetcode-cn.com/problems/most-common-word/) | [最常见的单词](https://github.com/menghuu/YALeetcode/blob/master/python3/819.%20%E6%9C%80%E5%B8%B8%E8%A7%81%E7%9A%84%E5%8D%95%E8%AF%8D.py) | ✅        |
+| 937  | 简单 | [937. 重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [重新排列日志文件](https://github.com/menghuu/YALeetcode/blob/master/python3/937.%20%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6.py) | ✅        |
 
 > 堆与栈、高频题目
 
