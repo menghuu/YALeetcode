@@ -107,8 +107,8 @@
 | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 23   | 困难 | [23. 合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [合并K个排序链表](https://github.com/menghuu/YALeetcode/blob/master/python3/23.%20%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.py) | ✅        |
 | 215  | 中等 | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [数组中的第K个最大元素](https://github.com/menghuu/YALeetcode/blob/master/python3/215.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.py) | ✅        |
-| 240  | 中等 | [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) |                                                              |          |
-| 973  | 中等 | [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) |                                                              |          |
+| 240  | 中等 | [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [搜索二维矩阵 II](https://github.com/menghuu/YALeetcode/blob/master/python3/240.%20%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5%20II.py) | ✅        |
+| 973  | 中等 | [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [最接近原点的 K 个点](https://github.com/menghuu/YALeetcode/blob/master/python3/973.%20%E6%9C%80%E6%8E%A5%E8%BF%91%E5%8E%9F%E7%82%B9%E7%9A%84%20K%20%E4%B8%AA%E7%82%B9.py) | ✅        |
 
 > 实战题目 - 二分查找
 
@@ -194,8 +194,8 @@
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
 | 455  | 简单 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/) | [分发饼干](https://github.com/menghuu/YALeetcode/blob/master/python3/455.%20%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.py) |    ✅    |
-| 860  | 简单 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/) |          |    ❎     |
-| 874  | 简单 | [模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/description/) |          |    ❎     |
+| 860  | 简单 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/) | [柠檬水找零](https://github.com/menghuu/YALeetcode/blob/master/python3/860. 柠檬水找零.py) |    ✅    |
+| 874  | 简单 | [模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/description/) | [模拟行走机器人](https://github.com/menghuu/YALeetcode/blob/master/python3/874.%20%E6%A8%A1%E6%8B%9F%E8%A1%8C%E8%B5%B0%E6%9C%BA%E5%99%A8%E4%BA%BA.py) |    ✅    |
 
 
 > 实战题目 - trie 树
@@ -300,4 +300,5 @@
 | 面试16.18    | 中等 | [面试题 16.18. 模式匹配](https://leetcode-cn.com/problems/pattern-matching-lcci/) | [面试题 16.18. 模式匹配](https://github.com/menghuu/YALeetcode/blob/master/python3/%E9%9D%A2%E8%AF%95%E9%A2%98%2016.18.%20%E6%A8%A1%E5%BC%8F%E5%8C%B9%E9%85%8D.py) | ✅        |
 | 67           | 简单 | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | [67. 二进制求和](https://github.com/menghuu/YALeetcode/blob/master/python3/67.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C.py) | ✅        |
 | 剑指Offer 09 | 简单 | [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [剑指 Offer 09. 用两个栈实现队列](https://github.com/menghuu/YALeetcode/blob/master/python3/%E5%89%91%E6%8C%87%20Offer%2009.%20%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.py) | ✅        |
+| 718          | 中等 | [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [最长重复子数组](https://github.com/menghuu/YALeetcode/blob/master/python3/718.%20%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%90%E6%95%B0%E7%BB%84.py) | ✅        |
 
