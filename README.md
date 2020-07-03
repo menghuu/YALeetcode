@@ -123,8 +123,8 @@
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
 | 130  |  中等 | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/#/description) | [被围绕的区域](https://github.com/menghuu/YALeetcode/blob/master/python3/130.%20%E8%A2%AB%E5%9B%B4%E7%BB%95%E7%9A%84%E5%8C%BA%E5%9F%9F.py) |    ✅    |
-| 200  |  中等 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) |   [number of islands](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_200/NumberOfIslands.java)       |    ❎    |
-| 547  |  中等 | [朋友圈](https://leetcode-cn.com/problems/friend-circles/#/description) |          |    ❎     |
+| 200  |  中等 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [number of islands](https://github.com/menghuu/YALeetcode/blob/master/python3/200.%20%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.py) |    ✅    |
+| 547  |  中等 | [朋友圈](https://leetcode-cn.com/problems/friend-circles/#/description) | [朋友圈](https://github.com/menghuu/YALeetcode/blob/master/python3/547.%20%E6%9C%8B%E5%8F%8B%E5%9C%88.py) |    ✅    |
 
 > 实战题目 - 遍历和搜索
 
@@ -133,9 +133,9 @@
 | 102  | 中等 | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/#/description) | [binary tree level order traversal](https://github.com/menghuu/YALeetcode/blob/master/python3/102.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.py) |    ✅    |
 | 126  | 困难  | [单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/description/) | [单词接龙 II](https://github.com/menghuu/YALeetcode/blob/master/python3/126.%20%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99%20II.py) |    ✅    |
 | 127  | 中等  | [单词接龙](https://leetcode-cn.com/problems/word-ladder/description/) | [单词接龙](https://github.com/menghuu/YALeetcode/blob/master/python3/127.%20%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99.py) |    ✅    |
-| 433  | 中等  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/#/description) |          |    ❎     |
-| 515  | 中等  | [在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/#/description) |          |    ❎     |
-| 529  | 中等  | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/description/) |          |    ❎     |
+| 433  | 中等  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/#/description) | [最小基因变化](https://github.com/menghuu/YALeetcode/blob/master/python3/433.%20%E6%9C%80%E5%B0%8F%E5%9F%BA%E5%9B%A0%E5%8F%98%E5%8C%96.py) |    ✅    |
+| 515  | 中等  | [在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/#/description) | [在每个树行中找最大值](https://github.com/menghuu/YALeetcode/blob/master/python3/515.%20%E5%9C%A8%E6%AF%8F%E4%B8%AA%E6%A0%91%E8%A1%8C%E4%B8%AD%E6%89%BE%E6%9C%80%E5%A4%A7%E5%80%BC.py) |    ✅    |
+| 529  | 中等  | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/description/) | [扫雷游戏](https://github.com/menghuu/YALeetcode/blob/master/python3/529.%20%E6%89%AB%E9%9B%B7%E6%B8%B8%E6%88%8F.py) |    ✅    |
 
 > 实战题目 - 动态规划
 
@@ -301,4 +301,5 @@
 | 67           | 简单 | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | [67. 二进制求和](https://github.com/menghuu/YALeetcode/blob/master/python3/67.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C.py) | ✅        |
 | 剑指Offer 09 | 简单 | [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [剑指 Offer 09. 用两个栈实现队列](https://github.com/menghuu/YALeetcode/blob/master/python3/%E5%89%91%E6%8C%87%20Offer%2009.%20%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.py) | ✅        |
 | 718          | 中等 | [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [最长重复子数组](https://github.com/menghuu/YALeetcode/blob/master/python3/718.%20%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%90%E6%95%B0%E7%BB%84.py) | ✅        |
+| 108          | 简单 | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [将有序数组转换为二叉搜索树](https://github.com/menghuu/YALeetcode/blob/master/python3/108.%20%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.py) | ✅        |
 
