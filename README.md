@@ -202,8 +202,8 @@
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
-| 208  | 中等 | [实现 Trie (前缀树) ](https://leetcode-cn.com/problems/implement-trie-prefix-tree/#/description) |          |    ❎     |
-| 212  | 困难 | [单词搜索 II ](https://leetcode-cn.com/problems/word-search-ii/) |          |    ❎     |
+| 208  | 中等 | [实现 Trie (前缀树) ](https://leetcode-cn.com/problems/implement-trie-prefix-tree/#/description) | [实现 Trie (前缀树) ](https://github.com/menghuu/YALeetcode/blob/master/python3/208.%20%E5%AE%9E%E7%8E%B0%20Trie%20(%E5%89%8D%E7%BC%80%E6%A0%91).py) |    ✅    |
+| 212  | 困难 | [单词搜索 II ](https://leetcode-cn.com/problems/word-search-ii/) | [单词搜索 II ](https://github.com/menghuu/YALeetcode/blob/master/python3/212.%20%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2%20II.py) |    ✅    |
 
 
 > 实战题目 - 位运算
