@@ -226,7 +226,7 @@
 
 | 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
 | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| 273  | 困难 | [273. 整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/) |                                                              |          |
+| 273  | 困难 | [273. 整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/) | [整数转换英文表示](https://github.com/menghuu/YALeetcode/blob/master/python3/273.%20%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA.py) | ✅        |
 | 415  | 简单 | [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/) | [字符串相加](https://github.com/menghuu/YALeetcode/blob/master/python3/415.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0.py) | ✅        |
 | 680  | 简单 | [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [验证回文字符串 Ⅱ](https://github.com/menghuu/YALeetcode/blob/master/python3/680.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%20%E2%85%A1.py) | ✅        |
 | 819  | 简单 | [819. 最常见的单词](https://leetcode-cn.com/problems/most-common-word/) | [最常见的单词](https://github.com/menghuu/YALeetcode/blob/master/python3/819.%20%E6%9C%80%E5%B8%B8%E8%A7%81%E7%9A%84%E5%8D%95%E8%AF%8D.py) | ✅        |
@@ -234,17 +234,17 @@
 
 > 堆与栈、高频题目
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
-| 692  | 中等 | [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |          |          |
-| 1249 | 中等 | [1249. 移除无效的括号](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/) |          |          |
+| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 692  | 中等 | [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) | [前K个高频单词](https://github.com/menghuu/YALeetcode/blob/master/python3/692.%20%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%8D%95%E8%AF%8D.py) | ✅        |
+| 1249 | 中等 | [1249. 移除无效的括号](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/) | [移除无效的括号](https://github.com/menghuu/YALeetcode/blob/master/python3/1249.%20%E7%A7%BB%E9%99%A4%E6%97%A0%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.py) | ✅        |
 
 > 哈希表、高频题目
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
-| 560  | 中等 | [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) |          |          |
-| 953  | 简单 | [953. 验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/) |          |          |
+| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 560  | 中等 | [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [和为K的子数组](https://github.com/menghuu/YALeetcode/blob/master/python3/560.%20%E5%92%8C%E4%B8%BAK%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.py) | ✅        |
+| 953  | 简单 | [953. 验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/) |                                                              |          |
 
 > 回溯算法、高频题目
 
