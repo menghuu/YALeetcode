@@ -25,10 +25,10 @@ while True:
 
 dps = [0 for _ in range(V+1)]
 
-for i, v, w in zip(range(N), vs, ws):
-    for j in range(V, -1, -1):
-        jj = j - v
-        if jj >= 0:
-            dps[j] = max(dps[j], dps[jj] + w)
+for v, w in zip(vs, ws):
+    for i in range(V, -1, -1):
+        ii = i - v
+        if ii >= 0:
+            dps[i] = max(dps[i], dps[ii] + w)
 
 print(dps[-1])
