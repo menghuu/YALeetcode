@@ -159,7 +159,7 @@
 | 198  | 简单 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   | [house robber](https://github.com/menghuu/YALeetcode/blob/master/python3/198.%20House%20Robber.py) |    ✅    |
 | 213  | 中等 | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/description/) |     [house robber ii](https://github.com/menghuu/YALeetcode/blob/master/python3/213.%20House%20Robber%20II.py)     |    ✅    |
 | 221  | 中等 | [最大正方形](https://leetcode-cn.com/problems/maximal-square/) |          |    ❎     |
-| 279  | 中等 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) |          |    ❎     |
+| 279  | 中等 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | [完全平方数](https://github.com/menghuu/YALeetcode/blob/master/python3/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.py) |    ✅    |
 | 322  | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/description/) | [零钱兑换](https://github.com/menghuu/YALeetcode/blob/master/python3/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.py) |    ✅    |
 | 518  | 中等 | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | [零钱兑换 II](https://github.com/menghuu/YALeetcode/blob/master/python3/518.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%20II.py) |    ✅    |
 | 309  | 中等 | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |          |    ❎     |
@@ -302,6 +302,7 @@
 | 剑指Offer 09 | 简单 | [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [剑指 Offer 09. 用两个栈实现队列](https://github.com/menghuu/YALeetcode/blob/master/python3/%E5%89%91%E6%8C%87%20Offer%2009.%20%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.py) | ✅        |
 | 718          | 中等 | [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [最长重复子数组](https://github.com/menghuu/YALeetcode/blob/master/python3/718.%20%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%90%E6%95%B0%E7%BB%84.py) | ✅        |
 | 108          | 简单 | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [将有序数组转换为二叉搜索树](https://github.com/menghuu/YALeetcode/blob/master/python3/108.%20%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.py) | ✅        |
+| 39           | 中等 | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | [组合总和](https://github.com/menghuu/YALeetcode/blob/master/python3/39.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.py) | ✅        |
 
 > 背包问题
 
@@ -319,4 +320,6 @@
 | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 322  | 中等 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [零钱兑换](https://github.com/menghuu/YALeetcode/blob/master/python3/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.py) | ✅        |
 | 518  | 中等 | [518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | [零钱兑换 II](https://github.com/menghuu/YALeetcode/blob/master/python3/518.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%20II.py) | ✅        |
+| 377  | 中等 | [377. 组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) | [组合总和 Ⅳ]()                                               | ✅        |
+| 279  | 中等 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | [完全平方数](https://github.com/menghuu/YALeetcode/blob/master/python3/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.py) | ✅        |
 
