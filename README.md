@@ -160,8 +160,8 @@
 | 213  | 中等 | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/description/) |     [house robber ii](https://github.com/menghuu/YALeetcode/blob/master/python3/213.%20House%20Robber%20II.py)     |    ✅    |
 | 221  | 中等 | [最大正方形](https://leetcode-cn.com/problems/maximal-square/) |          |    ❎     |
 | 279  | 中等 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) |          |    ❎     |
-| 322  | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/description/) |          |    ❎     |
-| 518  | 中等 | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) |          |    ❎     |
+| 322  | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/description/) | [零钱兑换](https://github.com/menghuu/YALeetcode/blob/master/python3/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.py) |    ✅    |
+| 518  | 中等 | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | [零钱兑换 II](https://github.com/menghuu/YALeetcode/blob/master/python3/518.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%20II.py) |    ✅    |
 | 309  | 中等 | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |          |    ❎     |
 | 312  | 困难 | [戳气球](https://leetcode-cn.com/problems/burst-balloons/)   |          |    ❎     |
 | 363  | 困难 | [矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) |          |    ❎     |
@@ -312,4 +312,11 @@
 | 416  | 中等 | [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [分割等和子集](https://github.com/menghuu/YALeetcode/blob/master/python3/416.%20%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.py) | ✅        |
 | 474  | 中等 | [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) | [一和零](https://github.com/menghuu/YALeetcode/blob/master/python3/474.%20%E4%B8%80%E5%92%8C%E9%9B%B6.py) | ✅        |
 | 1049 | 中等 | [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) | [最后一块石头的重量 II](https://github.com/menghuu/YALeetcode/blob/master/python3/1049.%20%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8F%20II.py) | ✅        |
+
+> 完全背包问题
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 322  | 中等 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [零钱兑换](https://github.com/menghuu/YALeetcode/blob/master/python3/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.py) | ✅        |
+| 518  | 中等 | [518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | [零钱兑换 II](https://github.com/menghuu/YALeetcode/blob/master/python3/518.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%20II.py) | ✅        |
 
