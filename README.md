@@ -28,7 +28,7 @@
 | 54   | 中等 | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [54. 螺旋矩阵](https://github.com/menghuu/YALeetcode/blob/master/python3/54.%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.py) | ✅        |
 | 56   | 中等 | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [56. 合并区间](https://github.com/menghuu/YALeetcode/blob/master/python3/56.%20%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.py) | ✅        |
 | 238  | 中等 | [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [238. 除自身以外数组的乘积](https://github.com/menghuu/YALeetcode/blob/master/python3/238.%20%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.py) | ✅        |
-| 1049 | 中等 | [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) |                                                              |          |
+| 1049 | 中等 | [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) | [最后一块石头的重量 II](https://github.com/menghuu/YALeetcode/blob/master/python3/1049.%20%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8F%20II.py) | ✅        |
 
 > 实战题目 - Linked List
 
@@ -302,4 +302,14 @@
 | 剑指Offer 09 | 简单 | [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [剑指 Offer 09. 用两个栈实现队列](https://github.com/menghuu/YALeetcode/blob/master/python3/%E5%89%91%E6%8C%87%20Offer%2009.%20%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.py) | ✅        |
 | 718          | 中等 | [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [最长重复子数组](https://github.com/menghuu/YALeetcode/blob/master/python3/718.%20%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%90%E6%95%B0%E7%BB%84.py) | ✅        |
 | 108          | 简单 | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [将有序数组转换为二叉搜索树](https://github.com/menghuu/YALeetcode/blob/master/python3/108.%20%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.py) | ✅        |
+
+> 背包问题
+
+> 01背包问题
+
+| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 416  | 中等 | [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [分割等和子集](https://github.com/menghuu/YALeetcode/blob/master/python3/416.%20%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.py) | ✅        |
+| 474  | 中等 | [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) | [一和零](https://github.com/menghuu/YALeetcode/blob/master/python3/474.%20%E4%B8%80%E5%92%8C%E9%9B%B6.py) | ✅        |
+| 1049 | 中等 | [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) | [最后一块石头的重量 II](https://github.com/menghuu/YALeetcode/blob/master/python3/1049.%20%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8F%20II.py) | ✅        |
 
