@@ -9,6 +9,30 @@
 """
 
 """
+
+import sys
+
+N, V = list(map(int, sys.stdin.readline().strip().split()))
+
+dps = [0 for _ in range(V + 1)]
+
+vs, ws = [0 for _ in range(110)], [0 for _ in range(110)]
+
+for _ in range(N):
+    s = int(sys.stdin.readline().strip())
+    for k in range(s):
+        v, w = map(int, sys.stdin.readline().strip().split())
+        vs[k] = v
+        ws[k] = w
+    for j in range(V, -1, -1):
+        for k in range(s):
+            if j - vs[k] >= 0:
+                dps[j] = max(dps[j], dps[j - vs[k]] + ws[k])
+
+print(dps[-1])
+
+######################################
+
 import sys
 
 N, V = list(map(int, sys.stdin.readline().strip().split()))
