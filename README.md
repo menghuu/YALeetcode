@@ -308,18 +308,38 @@
 
 > 01背包问题
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| 416  | 中等 | [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [分割等和子集](https://github.com/menghuu/YALeetcode/blob/master/python3/416.%20%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.py) | ✅        |
-| 474  | 中等 | [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) | [一和零](https://github.com/menghuu/YALeetcode/blob/master/python3/474.%20%E4%B8%80%E5%92%8C%E9%9B%B6.py) | ✅        |
-| 1049 | 中等 | [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) | [最后一块石头的重量 II](https://github.com/menghuu/YALeetcode/blob/master/python3/1049.%20%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8F%20II.py) | ✅        |
+| 题号     | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| -------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 416      | 中等 | [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [分割等和子集](https://github.com/menghuu/YALeetcode/blob/master/python3/416.%20%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.py) | ✅        |
+| 474      | 中等 | [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) | [一和零](https://github.com/menghuu/YALeetcode/blob/master/python3/474.%20%E4%B8%80%E5%92%8C%E9%9B%B6.py) | ✅        |
+| 1049     | 中等 | [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) | [最后一块石头的重量 II](https://github.com/menghuu/YALeetcode/blob/master/python3/1049.%20%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8F%20II.py) | ✅        |
+| acwing 2 | 简单 | [2. 01背包问题](https://www.acwing.com/problem/content/2/)   | [01背包问题](https://github.com/menghuu/YALeetcode/blob/master/python3/2.%2001%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.py) | ✅        |
 
 > 完全背包问题
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| 322  | 中等 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [零钱兑换](https://github.com/menghuu/YALeetcode/blob/master/python3/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.py) | ✅        |
-| 518  | 中等 | [518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | [零钱兑换 II](https://github.com/menghuu/YALeetcode/blob/master/python3/518.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%20II.py) | ✅        |
-| 377  | 中等 | [377. 组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) | [组合总和 Ⅳ](https://github.com/menghuu/YALeetcode/blob/master/python3/377.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20%E2%85%A3.py) | ✅        |
-| 279  | 中等 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | [完全平方数](https://github.com/menghuu/YALeetcode/blob/master/python3/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.py) | ✅        |
+| 题号     | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| -------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 322      | 中等 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [零钱兑换](https://github.com/menghuu/YALeetcode/blob/master/python3/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.py) | ✅        |
+| 518      | 中等 | [518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | [零钱兑换 II](https://github.com/menghuu/YALeetcode/blob/master/python3/518.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%20II.py) | ✅        |
+| 377      | 中等 | [377. 组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) | [组合总和 Ⅳ](https://github.com/menghuu/YALeetcode/blob/master/python3/377.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20%E2%85%A3.py) | ✅        |
+| 279      | 中等 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | [完全平方数](https://github.com/menghuu/YALeetcode/blob/master/python3/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.py) | ✅        |
+| acwing 3 | 简单 | [3. 完全背包问题](https://www.acwing.com/problem/content/3/) | [3. 完全背包问题](https://github.com/menghuu/YALeetcode/blob/master/python3/3.%20%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.py) | ✅        |
 
+> 多重背包问题
+
+| 题号     | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| -------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| acwing 4 | 简单 | [多重背包问题 ](https://www.acwing.com/problem/content/4/)   | [多重背包问题 I](https://github.com/menghuu/YALeetcode/blob/master/python3/%204.%20%E5%A4%9A%E9%87%8D%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%20I%20.py) | ✅        |
+| acwing 5 | 中等 | [多重背包问题 II](https://www.acwing.com/problem/content/5/) | [多重背包问题 2](https://github.com/menghuu/YALeetcode/blob/master/python3/5.%20%E5%A4%9A%E9%87%8D%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%20II.py) | ✅        |
+| acwing 6 | 困难 | [多重背包问题 III ](https://www.acwing.com/problem/content/6/) |                                                              |          |
+
+> 其他背包问题
+
+| 题号      | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| --------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| acwing 7  | 中等 | [混合背包问题](https://www.acwing.com/problem/content/7/)    | [混合背包问题](https://github.com/menghuu/YALeetcode/blob/master/python3/7.%20%E6%B7%B7%E5%90%88%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.py) | ✅        |
+| acwing 8  | 中等 | [二维费用的背包问题](https://www.acwing.com/problem/content/8/) | [二维费用的背包问题](https://github.com/menghuu/YALeetcode/blob/master/python3/8.%20%E4%BA%8C%E7%BB%B4%E8%B4%B9%E7%94%A8%E7%9A%84%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.py) | ✅        |
+| acwing 9  | 中等 | [分组背包问题 ](https://www.acwing.com/problem/content/9/)   | [分组背包问题 ](https://github.com/menghuu/YALeetcode/blob/master/python3/9.%20%E5%88%86%E7%BB%84%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.py) | ✅        |
+| acwing 10 | 困难 | [有依赖的背包问题](https://www.acwing.com/problem/content/10/) | [有依赖的背包问题](https://github.com/menghuu/YALeetcode/blob/master/python3/10.%20%E6%9C%89%E4%BE%9D%E8%B5%96%E7%9A%84%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.py) | ✅        |
+| acwing 11 | 中等 | [背包问题求方案数](https://www.acwing.com/problem/content/11/) | [背包问题求方案数](https://github.com/menghuu/YALeetcode/blob/master/python3/11.%20%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%E6%B1%82%E6%96%B9%E6%A1%88%E6%95%B0.py) | ✅        |
+| acwing 12 | 中等 | [背包问题求具体方案](https://www.acwing.com/problem/content/12/) | [背包问题求具体方案](https://github.com/menghuu/YALeetcode/blob/master/python3/12.%20%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%E6%B1%82%E5%85%B7%E4%BD%93%E6%96%B9%E6%A1%88.py) | ✅        |
