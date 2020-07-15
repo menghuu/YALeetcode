@@ -11,24 +11,17 @@
 """
 import sys
 
-N, V = sys.stdin.readline().strip().split()
-N, V = int(N), int(V)
+N, V = map(int, sys.stdin.readline().strip().split())
 
-vs, ws = [], []
-while True:
-    line = sys.stdin.readline().strip()
-    if line == '':
-        break 
-    v, w = line.split()
-    vs.append(int(v))
-    ws.append(int(w))
+# dps[j]
+dps = [0 for _ in range(V + 1)]
 
-dps = [0 for _ in range(V+1)]
+# dps[i][j]
 
-for v, w in zip(vs, ws):
-    for i in range(V, -1, -1):
-        ii = i - v
-        if ii >= 0:
-            dps[i] = max(dps[i], dps[ii] + w)
+for _ in range(N):
+    v, w = map(int, sys.stdin.readline().strip().split())
+    
+    for j in range(V, v - 1, -1):
+        dps[j] = max(dps[j], dps[j - v] + w)
 
 print(dps[-1])
