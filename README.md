@@ -147,18 +147,18 @@
 |  62  | 中等 | [不同路径  ](https://leetcode-cn.com/problems/unique-paths/) |     [unique paths](https://github.com/menghuu/YALeetcode/blob/master/python3/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.py)     |    ✅    |
 |  63  | 中等 | [不同路径 II ](https://leetcode-cn.com/problems/unique-paths-ii/) | [unique paths II](https://github.com/menghuu/YALeetcode/blob/master/python3/63.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II.py) |    ✅    |
 |  64  | 中等 | [最小路径和  ](https://leetcode-cn.com/problems/minimum-path-sum/) | [最小路径和  ](https://github.com/menghuu/YALeetcode/blob/master/python3/64.%20%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.py) |    ✅    |
-|  72  | 困难 | [编辑距离 ](https://leetcode-cn.com/problems/edit-distance/) |          |    ❎     |
+|  72  | 困难 | [编辑距离 ](https://leetcode-cn.com/problems/edit-distance/) | [编辑距离 ](https://github.com/menghuu/YALeetcode/blob/master/python3/72.%20%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.py) |    ✅    |
 |  76  | 困难 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |          |    ❎     |
 |  91  | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways)     | [解码方法](https://github.com/menghuu/YALeetcode/blob/master/python3/91.%20%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95.py) |    ✅    |
-| 120  | 中等 | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/) |          |    ❎     |
+| 120  | 中等 | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/) | [三角形最小路径和](https://github.com/menghuu/YALeetcode/blob/master/python3/120.%20%E4%B8%89%E8%A7%92%E5%BD%A2%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.py) |    ✅    |
 | 121  | 简单 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/#/description) |  [best time to buy and shell stock](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_121/BestTimeToBuyAndSellStock.java)        |    ❎    |
 | 122  | 简单 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) |   [best time to buy and shell stock ii](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_122/BestTimeToBuyAndSellStockII.java)       |     ❎     |
 | 123  | 困难 | [买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) |          |    ❎     |
-| 152  | 中等 | [乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/description/) |          |    ❎     |
+| 152  | 中等 | [乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/description/) | [乘积最大子序列](https://github.com/menghuu/YALeetcode/blob/master/python3/152.%20%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.py) |    ✅    |
 | 188  | 困难 | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) |          |    ❎     |
 | 198  | 简单 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   | [house robber](https://github.com/menghuu/YALeetcode/blob/master/python3/198.%20House%20Robber.py) |    ✅    |
 | 213  | 中等 | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/description/) |     [house robber ii](https://github.com/menghuu/YALeetcode/blob/master/python3/213.%20House%20Robber%20II.py)     |    ✅    |
-| 221  | 中等 | [最大正方形](https://leetcode-cn.com/problems/maximal-square/) |          |    ❎     |
+| 221  | 中等 | [最大正方形](https://leetcode-cn.com/problems/maximal-square/) | [最大正方形](https://github.com/menghuu/YALeetcode/blob/master/python3/221.%20%E6%9C%80%E5%A4%A7%E6%AD%A3%E6%96%B9%E5%BD%A2.py) |    ✅    |
 | 279  | 中等 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | [完全平方数](https://github.com/menghuu/YALeetcode/blob/master/python3/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.py) |    ✅    |
 | 322  | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/description/) | [零钱兑换](https://github.com/menghuu/YALeetcode/blob/master/python3/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.py) |    ✅    |
 | 518  | 中等 | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | [零钱兑换 II](https://github.com/menghuu/YALeetcode/blob/master/python3/518.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%20II.py) |    ✅    |
