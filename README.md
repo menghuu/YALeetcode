@@ -148,7 +148,7 @@
 |  63  | 中等 | [不同路径 II ](https://leetcode-cn.com/problems/unique-paths-ii/) | [unique paths II](https://github.com/menghuu/YALeetcode/blob/master/python3/63.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II.py) |    ✅    |
 |  64  | 中等 | [最小路径和  ](https://leetcode-cn.com/problems/minimum-path-sum/) | [最小路径和  ](https://github.com/menghuu/YALeetcode/blob/master/python3/64.%20%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.py) |    ✅    |
 |  72  | 困难 | [编辑距离 ](https://leetcode-cn.com/problems/edit-distance/) | [编辑距离 ](https://github.com/menghuu/YALeetcode/blob/master/python3/72.%20%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.py) |    ✅    |
-|  76  | 困难 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |          |    ❎     |
+|  76  | 困难 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [最小覆盖子串](https://github.com/menghuu/YALeetcode/blob/master/python3/76.%20%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.py) |    ✅    |
 |  91  | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways)     | [解码方法](https://github.com/menghuu/YALeetcode/blob/master/python3/91.%20%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95.py) |    ✅    |
 | 120  | 中等 | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/) | [三角形最小路径和](https://github.com/menghuu/YALeetcode/blob/master/python3/120.%20%E4%B8%89%E8%A7%92%E5%BD%A2%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.py) |    ✅    |
 | 121  | 简单 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/#/description) |  [best time to buy and shell stock](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_121/BestTimeToBuyAndSellStock.java)        |    ❎    |
@@ -163,15 +163,15 @@
 | 322  | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/description/) | [零钱兑换](https://github.com/menghuu/YALeetcode/blob/master/python3/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.py) |    ✅    |
 | 518  | 中等 | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | [零钱兑换 II](https://github.com/menghuu/YALeetcode/blob/master/python3/518.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%20II.py) |    ✅    |
 | 309  | 中等 | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |          |    ❎     |
-| 312  | 困难 | [戳气球](https://leetcode-cn.com/problems/burst-balloons/)   |          |    ❎     |
+| 312  | 困难 | [戳气球](https://leetcode-cn.com/problems/burst-balloons/)   | [戳气球](https://github.com/menghuu/YALeetcode/blob/master/python3/312.%20%E6%88%B3%E6%B0%94%E7%90%83.py) |    ✅    |
 | 363  | 困难 | [矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) |          |    ❎     |
 | 403  | 困难 | [青蛙过河](https://leetcode-cn.com/problems/frog-jump/)      |          |    ❎     |
 | 410  | 困难 | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum) |          |    ❎     |
 | 552  | 困难 | [学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii/) |          |    ❎     |
 | 621  | 中等 | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/) | [任务调度器](https://github.com/menghuu/YALeetcode/blob/master/python3/621.%20%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E5%99%A8.py) |    ✅    |
-| 647  | 中等 | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) |          |    ❎     |
+| 647  | 中等 | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | [回文子串](https://github.com/menghuu/YALeetcode/blob/master/python3/647.%20%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.py) |    ✅    |
 | 714  | 中等 | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |          |    ❎     |
-| 980  | 困难 | [不同路径 III ](https://leetcode-cn.com/problems/unique-paths-iii/) |          |    ❎     |
+| 980  | 困难 | [不同路径 III ](https://leetcode-cn.com/problems/unique-paths-iii/) | [不同路径 III ](https://github.com/menghuu/YALeetcode/blob/master/python3/980.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20III.py) |    ✅    |
 
 > 动态规划、高频题目
 
