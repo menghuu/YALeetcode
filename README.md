@@ -175,10 +175,10 @@
 
 > 动态规划、高频题目
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
-| 5    | 中等 | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) |          |          |
-| 139  | 中等 | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) |          |          |
+| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 5    | 中等 | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [5. 最长回文子串](https://github.com/menghuu/YALeetcode/blob/master/python3/5.%20%E5%A4%9A%E9%87%8D%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%20II.py) | ✅        |
+| 139  | 中等 | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) | [139. 单词拆分](https://github.com/menghuu/YALeetcode/blob/master/python3/139.%20%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.py) | ✅        |
 
 
 > 实战题目 - 剪枝
