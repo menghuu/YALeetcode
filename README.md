@@ -187,7 +187,7 @@
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
 |  36  | 中等 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/description/) | [有效的数独](https://github.com/menghuu/YALeetcode/blob/master/python3/36.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.py) |    ✅    |
 |  37  | 困难 | [解数独](https://leetcode-cn.com/problems/sudoku-solver/#/description) | [解数独](https://github.com/menghuu/YALeetcode/blob/master/python3/37.%20%E8%A7%A3%E6%95%B0%E7%8B%AC.py) |    ✅    |
-|  51  | 困难 | [N皇后](https://leetcode-cn.com/problems/n-queens/)          |          |    ❎     |
+|  51  | 困难 | [N皇后](https://leetcode-cn.com/problems/n-queens/)          | [N皇后](https://github.com/menghuu/YALeetcode/blob/master/python3/51.%20N%E7%9A%87%E5%90%8E.py) |    ✅    |
 
 > 实战题目 - 贪心
 
@@ -210,10 +210,10 @@
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
-|  52  |  困难 | [N皇后 II ](https://leetcode-cn.com/problems/n-queens-ii/description/) |          |    ❎     |
-| 190  |  简单 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) |          |    ❎     |
-| 191  |  简单 | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) |          |    ❎     |
-| 231  |  简单 | [2的幂](https://leetcode-cn.com/problems/power-of-two/)      |          |    ❎     |
+|  52  |  困难 | [N皇后 II ](https://leetcode-cn.com/problems/n-queens-ii/description/) | [N皇后 II ](https://github.com/menghuu/YALeetcode/blob/master/python3/52.%20N%E7%9A%87%E5%90%8E%20II.py) |    ✅    |
+| 190  |  简单 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | [颠倒二进制位](https://github.com/menghuu/YALeetcode/blob/master/python3/190.%20%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.py) |    ✅    |
+| 191  |  简单 | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | [位1的个数](https://github.com/menghuu/YALeetcode/blob/master/python3/191.%20%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0.py) |    ✅    |
+| 231  |  简单 | [2的幂](https://leetcode-cn.com/problems/power-of-two/)      | [2的幂](https://github.com/menghuu/YALeetcode/blob/master/python3/231.%202%E7%9A%84%E5%B9%82.py) |    ✅    |
 | 338  |  中等 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/description/) |          |    ❎     |
 
 > 实战题目 - LRU Catch
