@@ -214,7 +214,7 @@
 | 190  |  简单 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | [颠倒二进制位](https://github.com/menghuu/YALeetcode/blob/master/python3/190.%20%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.py) |    ✅    |
 | 191  |  简单 | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | [位1的个数](https://github.com/menghuu/YALeetcode/blob/master/python3/191.%20%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0.py) |    ✅    |
 | 231  |  简单 | [2的幂](https://leetcode-cn.com/problems/power-of-two/)      | [2的幂](https://github.com/menghuu/YALeetcode/blob/master/python3/231.%202%E7%9A%84%E5%B9%82.py) |    ✅    |
-| 338  |  中等 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/description/) |          |    ❎     |
+| 338  |  中等 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/description/) | [比特位计数](https://github.com/menghuu/YALeetcode/blob/master/python3/338.%20%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0.py) |    ✅    |
 
 > 实战题目 - LRU Catch
 
@@ -244,14 +244,14 @@
 | 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
 | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 560  | 中等 | [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [和为K的子数组](https://github.com/menghuu/YALeetcode/blob/master/python3/560.%20%E5%92%8C%E4%B8%BAK%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.py) | ✅        |
-| 953  | 简单 | [953. 验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/) |                                                              |          |
+| 953  | 简单 | [953. 验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/) | [验证外星语词典](https://github.com/menghuu/YALeetcode/blob/master/python3/953.%20%E9%AA%8C%E8%AF%81%E5%A4%96%E6%98%9F%E8%AF%AD%E8%AF%8D%E5%85%B8.py) | ✅        |
 
 > 回溯算法、高频题目
 
-| 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
-| ---- | ---- | ------------------------------------------------------------ | -------- | -------- |
-| 46   | 中等 | [46. 全排列](https://leetcode-cn.com/problems/permutations/) |          |          |
-| 79   | 中等 | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) |          |          |
+| 题号 | 难度 | 题目链接                                                     | 答案链接                                                     | 是否完成 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 46   | 中等 | [46. 全排列](https://leetcode-cn.com/problems/permutations/) | [全排列](https://github.com/menghuu/YALeetcode/blob/master/python3/46.%20%E5%85%A8%E6%8E%92%E5%88%97.py) | ✅        |
+| 79   | 中等 | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) | [单词搜索](https://github.com/menghuu/YALeetcode/blob/master/python3/79.%20%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.py) | ✅        |
 
 > 图论、高频题目
 
