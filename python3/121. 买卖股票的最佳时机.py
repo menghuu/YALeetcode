@@ -11,6 +11,19 @@
 """
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
+        if not prices:
+            return 0
+        buy_price = prices[0]
+        ans = 0
+        for sold in prices[1:]:
+            profit = sold - buy_price
+            ans = max(profit, ans)
+            buy_price = min(buy_price, sold)
+        return ans
+
+
+
+
         dps = []
         for price in prices:
             if not dps or price <= dps[-1]:
@@ -21,4 +34,3 @@ class Solution:
         for buy, sold in zip(dps[:-1], prices[1:]):
             ans = max(sold - buy, ans)
         return ans
-            
