@@ -9,18 +9,12 @@
 """
 
 """
+from typing import List, Set, Dict, Tuple
+
+# leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def countBits(self, num: int) -> List[int]:
-        import math
-        if num == 0:
-            return [0]
-        ans = [0, 1]
-        for power in range(1, int(math.log(num, 2)) + 1):
-            base = 2 ** power
-            for i in range(base, base * 2):
-                if i > num:
-                    break
-                else:
-                    ans.append(1 + ans[i - base])
+        ans = [0]
+        for i in range(1, num + 1):
+            ans.append(ans[i // 2] + i % 2)
         return ans
-
