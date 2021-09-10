@@ -115,7 +115,7 @@
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 是否完成 |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- | :------: |
 |  33  | 中等 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [search in rotated sorted array](https://github.com/menghuu/YALeetcode/blob/master/python3/33.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.py) |    ✅    |
-|  69  | 简单 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/ )       |   [sqrtx](https://github.com/menghuu/YALeetcode/blob/master/python3/69.%20x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.py)       |    ✅     |
+|  69  | 简单 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/)       |   [sqrtx](https://github.com/menghuu/YALeetcode/blob/master/python3/69.%20x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.py)       |    ✅     |
 | 367  | 简单 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [valid perfect square](https://github.com/menghuu/YALeetcode/blob/master/python3/367.%20%E6%9C%89%E6%95%88%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.py)         |    ✅     |
 
 > 实战题目 - 并查集
@@ -344,3 +344,12 @@
 | acwing 10 | 困难 | [有依赖的背包问题](https://www.acwing.com/problem/content/10/) | [有依赖的背包问题](https://github.com/menghuu/YALeetcode/blob/master/python3/10.%20%E6%9C%89%E4%BE%9D%E8%B5%96%E7%9A%84%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.py) | ✅        |
 | acwing 11 | 中等 | [背包问题求方案数](https://www.acwing.com/problem/content/11/) | [背包问题求方案数](https://github.com/menghuu/YALeetcode/blob/master/python3/11.%20%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%E6%B1%82%E6%96%B9%E6%A1%88%E6%95%B0.py) | ✅        |
 | acwing 12 | 中等 | [背包问题求具体方案](https://www.acwing.com/problem/content/12/) | [背包问题求具体方案](https://github.com/menghuu/YALeetcode/blob/master/python3/12.%20%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%E6%B1%82%E5%85%B7%E4%BD%93%E6%96%B9%E6%A1%88.py) | ✅        |
+
+> 每日一题
+
+| 题号 | 难度 | 标签                         | 题目链接                                                     | 答案链接                                                     |
+| ---- | ---- | ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1894 | 中等 | 数组、二分查找、前缀和、模拟 | [1894. 找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/) | [YALeetcode/1894. 找到需要补充粉笔的学生编号.py](https://github.com/menghuu/YALeetcode/blob/master/python3/1894. 找到需要补充粉笔的学生编号.py) |
+| 704  | 简单 | 数组、二分查找               | [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) | [YALeetcode/704. 二分查找.py](https://github.com/menghuu/YALeetcode/blob/master/python3/704. 二分查找.py) |
+| 278  | 简单 | 二分查找、交互               | [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | [YALeetcode/278. 第一个错误的版本.py](https://github.com/menghuu/YALeetcode/blob/master/python3/278. 第一个错误的版本.py) |
+
