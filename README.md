@@ -353,4 +353,5 @@
 | 704  | 简单 | 数组、二分查找               | [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) | [YALeetcode/704. 二分查找.py](https://github.com/menghuu/YALeetcode/blob/master/python3/704. 二分查找.py) |
 | 278  | 简单 | 二分查找、交互               | [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | [YALeetcode/278. 第一个错误的版本.py](https://github.com/menghuu/YALeetcode/blob/master/python3/278. 第一个错误的版本.py) |
 | 35   | 简单 | 二分查找、数组               | [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [YALeetcode/35.搜索插入位置.py](https://github.com/menghuu/YALeetcode/blob/master/python3/35.搜索插入位置.py) |
+| 977  | 简单 | 双指针、数组、排序           | [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [YALeetcode/977.有序数组的平方.py](https://github.com/menghuu/YALeetcode/blob/master/python3/977.有序数组的平方.py) |
 
